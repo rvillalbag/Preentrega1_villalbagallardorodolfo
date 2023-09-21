@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "botin predator",
+        "author": "ADIDAS",
+        "price": 58.900,
+        "img": "./imagenes/predator.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "pelota Argentum Competition",
+        "author": "ADIDAS",
+        "price": 47.900,
+        "img": "./imagenes/pelota.wepp"
+    },
+
+    {
+        "id": 3,
+        "name": "guantes predator",
+        "author": "ADIDAS",
+        "price": 76.000,
+        "img": "./imagenes/guantes.webp"
+    },
+
+    {
+        "id": 4,
+        "name": "medias",
+        "author": "ADIDAS",
+        "price": 20.000,
+        "img": "./imagenes/medias.webp"
+    }
+]
